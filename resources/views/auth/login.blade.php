@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="Iniciar Sesión - POS" />
     <meta name="author" content="Eduardo Salinas" />
-    <title>Login - SB Admin</title>
-    <link href="{{ asset('css/template.css')}}" rel="stylesheet" />
+    <title>Login - POS</title>
+    <link href="{{ secure_asset('css/template.css')}}" rel="stylesheet" />
     <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
 </head>
 
